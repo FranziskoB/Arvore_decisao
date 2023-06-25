@@ -113,7 +113,7 @@
 1003;3;Shine, Miss. Ellen Natalia;female;;0;0;330968;77.792;;Q;1
 1004;1;Evans, Miss. Edith Corse;female;36;0;0;PC 17531;316.792;A29;C;1
 1005;3;Buckley, Miss. Katherine;female;18.5;0;0;329944;72.833;;Q;1
-1006;1;Straus, Mrs. Isidor (Rosalie Ida Blun);female;63;1;0;PC 17483;2.217.792;C55 C57;S;1
+1006;1;Straus, Mrs. Isidor (Rosalie Ida Blun);female;63;1;0;PC 17483;2,217.79;C55 C57;S;1
 1007;3;Chronopoulos, Mr. Demetrios;male;18;1;0;2680;144.542;;C;0
 1008;3;Thomas, Mr. John;male;;0;0;2681;64.375;;C;0
 1009;3;Sandstrom, Miss. Beatrice Irene;female;1;1;1;PP 9549;16.7;G6;S;1
@@ -155,7 +155,7 @@
 1045;3;Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist);female;36;0;2;350405;121.833;;S;1
 1046;3;Asplund, Master. Filip Oscar;male;13;4;2;347077;313.875;;S;0
 1047;3;Duquemin, Mr. Joseph;male;24;0;0;S.O./P.P. 752;7.55;;S;0
-1048;1;Bird, Miss. Ellen;female;29;0;0;PC 17483;2.217.792;C97;S;1
+1048;1;Bird, Miss. Ellen;female;29;0;0;PC 17483;2,217.79;C97;S;1
 1049;3;Lundin, Miss. Olga Elida;female;23;0;0;347469;78.542;;S;1
 1050;1;Borebank, Mr. John James;male;42;0;0;110489;26.55;D22;S;0
 1051;3;Peacock, Mrs. Benjamin (Edith Nile);female;26;0;2;SOTON/O.Q. 3101315;13.775;;S;1
@@ -183,7 +183,7 @@
 1073;1;Compton, Mr. Alexander Taylor Jr;male;37;1;1;PC 17756;831.583;E52;C;0
 1074;1;Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson);female;18;1;0;113773;53.1;D30;S;1
 1075;3;Lane, Mr. Patrick;male;;0;0;7935;7.75;;Q;0
-1076;1;Douglas, Mrs. Frederick Charles (Mary Helene Baxter);female;27;1;1;PC 17558;2.475.208;B58 B60;C;1
+1076;1;Douglas, Mrs. Frederick Charles (Mary Helene Baxter);female;27;1;1;PC 17558;2,475.21;B58 B60;C;1
 1077;2;Maybery, Mr. Frank Hubert;male;40;0;0;239059;16;;S;0
 1078;2;Phillips, Miss. Alice Frances Louisa;female;21;0;1;S.O./P.P. 2;21;;S;1
 1079;3;Davies, Mr. Joseph;male;17;2;0;A/4 48873;8.05;;S;0
@@ -216,7 +216,7 @@
 1106;3;Andersson, Miss. Ida Augusta Margareta;female;38;4;2;347091;7.775;;S;1
 1107;1;Head, Mr. Christopher;male;42;0;0;113038;42.5;B11;S;0
 1108;3;Mahon, Miss. Bridget Delia;female;;0;0;330924;78.792;;Q;1
-1109;1;Wick, Mr. George Dennick;male;57;1;1;36928;1.648.667;;S;0
+1109;1;Wick, Mr. George Dennick;male;57;1;1;36928;1,648.67;;S;0
 1110;1;Widener, Mrs. George Dunton (Eleanor Elkins);female;50;1;1;113503;211.5;C80;C;1
 1111;3;Thomson, Mr. Alexander Morrison;male;;0;0;32302;8.05;;S;0
 1112;2;Duran y More, Miss. Florentina;female;30;1;0;SC/PARIS 2148;138.583;;C;1
@@ -251,7 +251,7 @@
 1141;3;"Khalil, Mrs. Betros (Zahie Maria"" Elias)""";female;;1;0;2660;144.542;;C;1
 1142;2;West, Miss. Barbara J;female;0.92;1;2;C.A. 34651;27.75;;S;1
 1143;3;Abrahamsson, Mr. Abraham August Johannes;male;20;0;0;SOTON/O2 3101284;7.925;;S;0
-1144;1;Clark, Mr. Walter Miller;male;27;1;0;13508;1.367.792;C89;C;0
+1144;1;Clark, Mr. Walter Miller;male;27;1;0;13508;1,367.79;C89;C;0
 1145;3;Salander, Mr. Karl Johan;male;24;0;0;7266;9.325;;S;0
 1146;3;Wenzel, Mr. Linhart;male;32.5;0;0;345775;9.5;;S;0
 1147;3;MacKay, Mr. George William;male;;0;0;C.A. 42795;7.55;;S;0
@@ -271,7 +271,7 @@
 1161;3;Pokrnic, Mr. Mate;male;17;0;0;315095;86.625;;S;0
 1162;1;McCaffry, Mr. Thomas Francis;male;46;0;0;13050;752.417;C6;C;0
 1163;3;Fox, Mr. Patrick;male;;0;0;368573;7.75;;Q;0
-1164;1;Clark, Mrs. Walter Miller (Virginia McDowell);female;26;1;0;13508;1.367.792;C89;C;1
+1164;1;Clark, Mrs. Walter Miller (Virginia McDowell);female;26;1;0;13508;1,367.79;C89;C;1
 1165;3;Lennon, Miss. Mary;female;;1;0;370371;15.5;;Q;1
 1166;3;Saade, Mr. Jean Nassr;male;;0;0;2676;7.225;;C;0
 1167;2;Bryhl, Miss. Dagmar Jenny Ingeborg ;female;20;1;0;236853;26;;S;1
@@ -313,9 +313,9 @@
 1203;3;Vartanian, Mr. David;male;22;0;0;2658;7.225;;C;0
 1204;3;Sadowitz, Mr. Harry;male;;0;0;LP 1588;7.575;;S;0
 1205;3;Carr, Miss. Jeannie;female;37;0;0;368364;7.75;;Q;1
-1206;1;White, Mrs. John Stuart (Ella Holmes);female;55;0;0;PC 17760;1.356.333;C32;C;1
+1206;1;White, Mrs. John Stuart (Ella Holmes);female;55;0;0;PC 17760;1,356.33;C32;C;1
 1207;3;Hagardon, Miss. Kate;female;17;0;0;AQ/3. 30631;77.333;;Q;1
-1208;1;Spencer, Mr. William Augustus;male;57;1;0;PC 17569;1.465.208;B78;C;0
+1208;1;Spencer, Mr. William Augustus;male;57;1;0;PC 17569;1,465.21;B78;C;0
 1209;2;Rogers, Mr. Reginald Harry;male;19;0;0;28004;10.5;;S;0
 1210;3;Jonsson, Mr. Nils Hilding;male;27;0;0;350408;78.542;;S;0
 1211;2;Jefferys, Mr. Ernest Wilfred;male;22;2;0;C.A. 31029;31.5;;S;0
@@ -323,7 +323,7 @@
 1213;3;Krekorian, Mr. Neshan;male;25;0;0;2654;72.292;F E57;C;0
 1214;2;Nesson, Mr. Israel;male;26;0;0;244368;13;F2;S;0
 1215;1;Rowe, Mr. Alfred G;male;33;0;0;113790;26.55;;S;0
-1216;1;Kreuchen, Miss. Emilie;female;39;0;0;24160;2.113.375;;S;1
+1216;1;Kreuchen, Miss. Emilie;female;39;0;0;24160;2,113.38;;S;1
 1217;3;Assam, Mr. Ali;male;23;0;0;SOTON/O.Q. 3101309;7.05;;S;0
 1218;2;Becker, Miss. Ruth Elizabeth;female;12;2;1;230136;39;F4;S;1
 1219;1;"Rosenshine, Mr. George (Mr George Thorne"")""";male;46;0;0;PC 17585;79.2;;C;0
@@ -342,7 +342,7 @@
 1232;2;Fillbrook, Mr. Joseph Charles;male;18;0;0;C.A. 15185;10.5;;S;0
 1233;3;Lundstrom, Mr. Thure Edvin;male;32;0;0;350403;75.792;;S;0
 1234;3;Sage, Mr. John George;male;;1;9;CA. 2343;69.55;;S;0
-1235;1;Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake);female;58;0;1;PC 17755;5.123.292;B51 B53 B55;C;1
+1235;1;Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake);female;58;0;1;PC 17755;5,123.29;B51 B53 B55;C;1
 1236;3;van Billiard, Master. James William;male;;1;1;A/5. 851;14.5;;S;0
 1237;3;Abelseth, Miss. Karen Marie;female;16;0;0;348125;7.65;;S;1
 1238;2;Botsford, Mr. William Hull;male;26;0;0;237670;13;;S;0
@@ -399,7 +399,7 @@
 1289;1;Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli);female;48;1;1;13567;79.2;B41;C;1
 1290;3;Larsson-Rondberg, Mr. Edvard A;male;22;0;0;347065;7.775;;S;0
 1291;3;Conlon, Mr. Thomas Henry;male;31;0;0;21332;77.333;;Q;0
-1292;1;Bonnell, Miss. Caroline;female;30;0;0;36928;1.648.667;C7;S;1
+1292;1;Bonnell, Miss. Caroline;female;30;0;0;36928;1,648.67;C7;S;1
 1293;2;Gale, Mr. Harry;male;38;1;0;28664;21;;S;0
 1294;1;Gibson, Miss. Dorothy Winifred;female;22;0;1;112378;59.4;;C;1
 1295;1;Carrau, Mr. Jose Pedro;male;17;0;0;113059;47.1;;S;0
